@@ -20,4 +20,4 @@ Packet Tracer→Springアプリ→Azure→Nmapのラボ構築ポートフォリ�
   ✅ PC0 ↔ PC1 ping成功  
   ✅ PC0 → Server Webアクセス成功 (Cisco Packet Tracerページ表示)
 
-  
+  ## Next：ルーター追加＋ACL設定→Spring Bootアプリ展開
