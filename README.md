@@ -20,4 +20,16 @@ Packet Tracer→Springアプリ→Azure→Nmapのラボ構築ポートフォリ�
   ✅ PC0 ↔ PC1 ping成功  
   ✅ PC0 → Server Webアクセス成功 (Cisco Packet Tracerページ表示)
 
+<table align="center">
+  <tr>
+    <td align="center"><img src="images/network-topology.png" width="450"></td>
+    <td align="center"><img src="images/pc0-ip-config.png" width="450"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/ping-results.png" width="450"></td>
+    <td align="center"><img src="images/web-server-page.png" width="450"></td>
+  </tr>
+</table>
+
+
   ## Next：ルーター追加＋ACL設定→Spring Bootアプリ展開
